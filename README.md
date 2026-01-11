@@ -1,19 +1,66 @@
-# React + Vite
+# Adham Mostafa — Frontend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio showcasing my frontend projects, skills, and experience.
+Focused on building clean, responsive, and user-friendly web interfaces.
 
-Currently, two official plugins are available:
+## Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://adham-elchihi.netlify.app/
 
-## React Compiler
+## About Me
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Frontend developer with hands-on experience using React and modern web tools.
+I enjoy building real-world projects and continuously improving my skills.
 
-Note: This will impact Vite dev & build performances.
+## Tech Stack
 
-## Expanding the ESLint configuration
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Vite
+- Git & GitHub
+- Bootstrap
+- Nodejs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Adham-portfolio" 
+## Featured Projects
+
+### UBakery
+
+A native modern bakery website with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.
+
+🔗 Live Demo: https://ubakery.netlify.app/
+
+### React German autobahn
+
+A responsive cars magazine
+
+🔗 Live Demo: https://germanautobahn.netlify.app/
+
+### React Cars Catalog
+
+A responsive cars catalog application built with React.
+
+- Search and filter by brand
+- Min & max price filtering
+- Sorting by price and name
+- Responsive design
+
+🔗 Live Demo: https://cars-wiki.netlify.app/
+💻 GitHub: https://github.com/Elchihi/react-cars-catalog
+
+### 🌐 German Service Website
+
+Landing page built using Bootstrap 5.
+
+- Clean UI
+- Responsive layout
+- Services-focused design
+
+🔗 Live Demo: https://german-services.netlify.app/
+
+## 📫 Contact
+
+- GitHub: https://github.com/Elchihi
+- LinkedIn: https://www.linkedin.com/in/adham-mostafa-t7/
+- Email: adhamelchihi@gmail.com
