@@ -18,9 +18,10 @@ export default function Portfolio() {
       category: "web",
       img: "/German Services.png",
       link: "https://german-services.netlify.app/",
-      description: "A german services website with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.",
+      description:
+        "A german services website with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.",
     },
-      {
+    {
       title: "Bakery Website",
       category: "web",
       img: "/Ubakery.png",
@@ -28,13 +29,14 @@ export default function Portfolio() {
       description:
         "A native modern bakery website with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.",
     },
-    // {
-    //   title: "Mobile App UI",
-    //   category: "ui",
-    //   img: "/images/p4.png",
-    //   link: "https://github.com/yourusername/mobile-ui",
-    //   description: "A sleek mobile app UI design with smooth interactions.",
-    // },
+    {
+      title: "Cars Wiki",
+      category: "ui",
+      img: "/carswiki.png",
+      description:
+        "A sleek UI design for a car wiki-themed website, showcasing modern aesthetics , a mobile-friendly layout, and smooth animations , built with React.js and Tailwind CSS , built for cars enthusiasts.",
+      link: "https://cars-wiki.netlify.app/",
+    },
   ];
 
   const filtered =
