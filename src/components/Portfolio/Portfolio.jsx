@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { title } from "framer-motion/client";
 
 export default function Portfolio() {
   const [filter, setFilter] = useState("all");
@@ -36,6 +37,14 @@ export default function Portfolio() {
       description:
         "A sleek UI design for a car wiki-themed website, showcasing modern aesthetics , a mobile-friendly layout, and smooth animations , built with React.js and Tailwind CSS , built for cars enthusiasts.",
       link: "https://cars-wiki.netlify.app/",
+    },
+    {
+      title: "Smart-Products-Aecom",
+      category: "web",
+      img: "/aecom.png",
+      link: "https://smart-products-aecom.netlify.app/",
+      description:
+        "A modern website for smart products with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.",
     },
   ];
 
