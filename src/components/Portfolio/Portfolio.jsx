@@ -46,6 +46,14 @@ export default function Portfolio() {
       description:
         "A modern website for smart products with responsive design and smooth UI made using HTML5&CSS3 , BootStrap5.",
     },
+    {
+      title: "SparkClean",
+      category: "web",
+      img: "/sparkclean.png",
+      link: "https://sparkclean.netlify.app/",
+      description:
+        "A modern cleaning service website with responsive design and smooth UI made using HTML5&CSS3 , javascript.",
+    },
   ];
 
   const filtered =
